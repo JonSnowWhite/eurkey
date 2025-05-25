@@ -11,7 +11,7 @@
     { "pos": "8", "letters": [ "„", "‚" ], "capslock": false },
     { "pos": "9", "letters": [ "“", "‘" ], "capslock": false },
     { "pos": "0", "letters": [ "”", "’" ], "capslock": false },
-    { "pos": "-", "letters": [ "✓", "✗" ], "capslock": false },
+    { "pos": "-", "letters": [ "–", "—" ], "capslock": false },
     { "pos": "+", "letters": [ "×", "÷" ], "capslock": false },
     { "pos": "Q", "letters": [ "æ", "Æ" ], "capslock": true },
     { "pos": "W", "letters": [ "å", "Å" ], "capslock": true },
