@@ -8,6 +8,8 @@ $ klfc eurkey.json altgr.json control.json deadkeys.json -o output
 
 For Windows: Import in MSKLC. Set name (different to eurkey if eurkey already installed) and company name. Set working directory. Click Project -> Build DLL and Setup Package. Then install procuded setup.exe. Find installed keyboard in language settings of windows.
 
+For Linux: Run `uninstall-system.sh` if eurkey already installed (I bricked my space key without...) Run `install-system.sh`.
+
 # Orginal README
 The [EurKEY keyboard layout](https://eurkey.steffen.bruentjen.eu/start.html)
 source for the [Keyboard Layout Files Creator]( https://github.com/39aldo39/klfc) (KLFC)
