@@ -1,3 +1,14 @@
+Fork of EurKey Layout that replaces checkmarks with endash and emdash.
+
+Built with KLFC as
+
+```
+$ klfc eurkey.json altgr.json control.json deadkeys.json -o output
+```
+
+For Windows: Import in MSKLC. Set name (different to eurkey if eurkey already installed) and company name. Set working directory. Click Project -> Build DLL and Setup Package. Then install procuded setup.exe. Find installed keyboard in language settings of windows.
+
+# Orginal README
 The [EurKEY keyboard layout](https://eurkey.steffen.bruentjen.eu/start.html)
 source for the [Keyboard Layout Files Creator]( https://github.com/39aldo39/klfc) (KLFC)
 

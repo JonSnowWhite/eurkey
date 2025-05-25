@@ -3,7 +3,7 @@
   "keys": [
     {"pos": "6", "letters": [ "cdk:circumflex", "cdk:caron" ], "capslock": false},
     {"pos": "7", "letters": [ "cdk:overdot", "cdk:overbar" ],  "capslock": false},
-    {"pos": "-", "letters": [ "cdk:symbol", "№" ],             "capslock": false},
+    {"pos": "\\", "letters": [ "cdk:symbol", "№" ],             "capslock": false},
     {"pos": "'", "letters": [ "cdk:acute", "cdk:umlaut" ],     "capslock": false},
     {"pos": "~", "letters": [ "cdk:grave", "cdk:tilde" ],      "capslock": false},
     {"pos": "M", "letters": [ "cdk:greek", "cdk:math" ],       "capslock": true}
